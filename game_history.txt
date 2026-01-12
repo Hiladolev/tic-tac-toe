@@ -1,0 +1,5 @@
+or,hila,Draw
+elad,Automatic Player,Automatic Player
+el,liem,el
+mimi,Automatic Player,Draw
+ofir,Randy,ofir
